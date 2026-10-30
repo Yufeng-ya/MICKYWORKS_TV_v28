@@ -1,0 +1,12 @@
+{
+  "name": "MICKYWORKS TV",
+  "version_number": 28,
+  "export_date": "2026-10-30",
+  "source_commit": "12e3dfcf68b2db365a10ca0bc34a8b5d273c0714",
+  "site_url": "https://mickeyworks-portfolio.abcd383837.chatgpt.site",
+  "project_id": "appgprj_6a7eb76302d481919d4c3dae9f984855",
+  "saved_version_id": "appgprj_6a7eb76302d481919d4c3dae9f984855~appgver_bae38cabc5c88191a2db2d7d344f1ce3",
+  "contents": "Exact committed project source and local media, plus export instructions and integrity checksums",
+  "excluded": [".git history", "node_modules", "dist", "runtime caches", "credentials", "production environment variables"],
+  "source_modified": false
+}
